@@ -3,14 +3,6 @@
 # RoboND-MCL-Lab
 You will be able to observe the `MCL` in action through the generated images. 
 
-### Editing the Program
-Enter the code in the designated section:
-```C++
-//####   DON'T MODIFY ANYTHING ABOVE HERE! ENTER CODE BELOW ####
-		
-//TODO: Graph the position of the robot and the particles at each step 
-```
-
 ### Compiling the Program
 ```sh
 $ cd /home/workspace/
@@ -34,3 +26,5 @@ After running the program, `50` images will be generated in the `Images` folder.
 #### Step49
 ![alt text](Images/Step49.png)
 
+#### Combined
+![Alt Text](Images/Output.gif)
